@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Background Color -->
+    <color name="dark_background">#17171C</color>
+    <color name="text">#FFFFFF</color>
+
+    <!-- Dark Button -->
+    <color name="high_emphasis">#4B5EFC</color>
+    <color name="medium_emphasis">#4E505F</color>
+    <color name="low_emphasis">#2E2F38</color>
+
+    <!-- General -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

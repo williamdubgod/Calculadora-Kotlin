@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Calculadora CP1</string>
+    <string name="negativeSign">-%s</string>
+</resources>
